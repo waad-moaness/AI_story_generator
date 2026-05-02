@@ -15,5 +15,6 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "git-filter-repo>=2.47.0",
     "jupyter>=1.1.1",
 ]
