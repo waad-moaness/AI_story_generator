@@ -1,0 +1,873 @@
+run_id,model,judge_model,prompt_version,run_number,output,latency,generation_success,eval_success,has_7_days,has_intro,has_outro,intro_is_concise,outro_is_concise,coherence,consistency,creativity,progression,language,feedback
+d6996568-0832-4337-bac3-40b51f105d3b,model_1,model_3,simple,0,"{
+    ""intro"": {
+        ""title"": ""The Magical Flower Adventure"",
+        ""story"": ""In a land of sparkling fairy dust, a little fairy named Luna set out on a journey to find the magical flower that would make all her dreams come true. She packed her bag, said goodbye to her friends, and began her exciting adventure.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Math Magic"",
+            ""story"": ""Luna sat under a tree, took out her math book, and started doing her math homework to sharpen her problem-solving skills for the journey ahead. After finishing her homework, she felt proud and continued on her path to find the magical flower.""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Artistic Expression"",
+            ""story"": ""As she wandered through a colorful meadow, Luna drew an art project, painting a beautiful picture of the flowers and trees she saw, and she realized that art could be a great way to express her thoughts and ideas. With her artistic expression, she felt inspired to keep moving forward on her adventure.""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Days of the Week"",
+            ""story"": ""Luna met a friendly rabbit who asked her to say the days of the week, and she happily recited them: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday. The rabbit was impressed and gave her a map that would help her on her journey.""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Cleaning Up"",
+            ""story"": ""As Luna approached a dirty and messy cave, she decided to clean her room, which was actually a small cave she had been using as a temporary shelter, and she made sure to tidy up and organize her belongings. After cleaning, she felt refreshed and ready to face the challenges that lay ahead.""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Finding Whiskers"",
+            ""story"": ""Luna's friend, a little cat named Whiskers, was hiding somewhere in the forest, and Luna had to find her, using her problem-solving skills to search high and low until she finally found Whiskers taking a nap in a sunny spot. Overjoyed to be reunited, Luna and Whiskers continued their journey together.""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Growing a Plant"",
+            ""story"": ""As they walked through a beautiful garden, Luna learned how to grow and take care of a plant, nurturing a small seedling and watching it grow into a strong and healthy plant. She realized that taking care of a plant was similar to taking care of herself and her friends, and she felt proud of her new gardening skills.""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Trying New Words"",
+            ""story"": ""On the last day of her journey, Luna tried saying the word 'phosphorescence' and discovered that it meant a glowing light, which reminded her of the magical flower she had been searching for. With her new word and all the skills she had learned, Luna finally found the magical flower, and it was even more beautiful than she had imagined.""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Magical Flower Found"",
+        ""story"": ""Luna's adventure had come to an end, but she knew that the lessons she learned and the friends she made would stay with her forever. With the magical flower in hand, Luna returned home, where she was welcomed as a hero, and she lived happily ever after, using her problem-solving skills to help those in need.""
+    }
+}",2.977401733398437,True,True,True,True,True,True,True,4,8.0,3.0,4.0,8.0,"The story lacks meaningful blockers, as the protagonist completes mundane chores instead of facing true obstacles that test her character. While the call to action is clear, the progression feels like a disjointed checklist rather than a cohesive journey toward the goal."
+636b91dc-3c37-4668-8fdc-0166b9eb4fe4,model_1,model_3,simple,1,"{
+    ""intro"": {
+        ""title"": ""The Magical Flower Adventure"",
+        ""story"": ""Once upon a time, in a land far, far away, a little fairy set out on a journey to find the magical flower that would grant her wishes. The fairy was very excited and ready to face any challenges that came her way, and she knew that she would have to solve problems to reach her goal.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Day 1: Math Homework"",
+            ""story"": ""The fairy started her journey to find the magical flower, but first, she had to do her math homework to make sure she was ready for the adventure. She solved all the problems and felt confident to continue her search, and her first task was to do her math homework.""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Day 2: Art Project"",
+            ""story"": ""On the second day, the fairy came across a beautiful garden and decided to draw an art project of the flowers she saw, which reminded her of the magical flower she was looking for, and her task for the day was to draw an art project.""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Day 3: Days of the Week"",
+            ""story"": ""As she flew over the garden, she met a friendly bee who asked her to say the days of the week in order, and the fairy happily agreed, saying 'Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday', which was her task for the day.""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Day 4: Cleaning the Room"",
+            ""story"": ""The fairy then visited a messy cave and helped clean the room by picking up the toys and books, and her task for the day was to clean her room, which she did with a smile.""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Day 5: Finding the Cat"",
+            ""story"": ""On the fifth day, the fairy met a lost cat who couldn't find its way home, and the fairy's task was to find where the cat was, so she helped the cat find its home and felt happy.""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Day 6: Growing a Plant"",
+            ""story"": ""The fairy then planted a seed in the garden and took care of it, making sure it had enough water and sunlight, and her task for the day was to grow and take care of a plant, which she enjoyed very much.""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Day 7: Saying a New Word"",
+            ""story"": ""Finally, on the seventh day, the fairy found the magical flower and learned a new word, 'photosynthesis', and her task was to try saying this word, which she did with pride.""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The End of the Adventure"",
+        ""story"": ""After seven days of solving problems and completing tasks, the fairy finally found the magical flower and returned home with a big smile on her face. The fairy was happy and content, knowing that she had learned so much and had a wonderful adventure, and she couldn't wait to go on her next journey.""
+    }
+}",2.093005895614624,True,True,True,True,True,True,True,3,6.0,2.0,2.0,7.0,"The daily tasks act as mundane chores rather than meaningful blockers that logically prevent the fairy from reaching her goal. The story lacks a compelling call to action, as the challenges do not escalate in difficulty or relevance to the magical quest."
+42a5ba5b-d3d8-47b7-8149-987d389abb67,model_1,model_3,simple,2,"{
+    ""intro"": {
+        ""title"": ""The Magical Flower Adventure"",
+        ""story"": ""In a land far, far away, a little fairy was on a mission to find the magical flower that would bring joy and happiness to her kingdom, and she was ready to face any challenge that came her way. With a determined heart and a brave spirit, the fairy set off on her adventure, eager to solve problems and learn new things.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Day 1: Fairy's Math Adventure"",
+            ""story"": ""The fairy had been searching for the magical flower for days and finally found a clue that required her to do her math homework to unlock the next step, so she sat down and started solving the problems. After finishing her math homework, the fairy felt proud of herself and continued her journey to find the magical flower.""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Day 2: Fairy's Artistic Journey"",
+            ""story"": ""The fairy came across a beautiful garden where she had to draw an art project to show her creativity and kindness to the garden's creatures, and after drawing a stunning picture, the creatures helped her find the next clue. With the clue in hand, the fairy thanked the creatures and moved forward, feeling grateful for their help.""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Day 3: Fairy's Day of the Week Challenge"",
+            ""story"": ""As the fairy flew over a sparkling river, she met a fish who asked her to say the days of the week in the correct order to prove her intelligence and memory, and the fairy successfully listed all the days. The fish was impressed and gave the fairy a magical pearl that would guide her through the darkest parts of the forest.""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Day 4: Fairy's Cleaning Task"",
+            ""story"": ""The fairy arrived at a messy cave where she had to clean her room, or rather the cave, to show her responsibility and care for the environment, and after cleaning the cave, it was spotless and shiny. The cave's owner, a friendly bear, thanked the fairy and gave her a map that led to a secret path.""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Day 5: Fairy's Cat Search"",
+            ""story"": ""The fairy entered a cozy little house where she had to find the cat, who was hiding under the bed, to practice her problem-solving skills and attention to detail, and the fairy successfully found the cat and played with it. The cat's owner, an old witch, was delighted and gave the fairy a magical potion that would protect her from harm.""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Day 6: Fairy's Planting Adventure"",
+            ""story"": ""The fairy came across a barren land where she had to grow and take care of a plant to demonstrate her nurturing abilities and patience, and with love and care, the plant grew into a beautiful flower. The fairy felt happy and content, knowing that she had helped the plant grow, and continued her journey to find the magical flower.""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Day 7: Fairy's Big Word Challenge"",
+            ""story"": ""The fairy finally reached the magical flower, but to pick it, she had to try saying the word 'photography' five times fast, which required her to practice her language skills and pronunciation, and the fairy successfully said the word. With the magical flower in her hands, the fairy felt proud of herself and all the challenges she had overcome, and she returned home, where she was welcomed as a hero.""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The End of the Adventure"",
+        ""story"": ""The fairy's journey had come to an end, but the lessons she learned and the friends she made would stay with her forever, and she knew that she could overcome any obstacle as long as she was brave and determined. The fairy lived happily ever after, and the magical flower brought joy and happiness to the kingdom, reminding everyone of the fairy's amazing adventure.""
+    }
+}",2.941127300262451,True,True,True,True,True,True,True,4,8.0,3.0,3.0,8.0,"The story's blockers feel like a list of literal school chores rather than organic magical obstacles, breaking the immersion of the fantasy setting. While the initial call to action is clear, the journey lacks a meaningful progression of stakes, culminating in a trivial final challenge."
+aa404c31-e6f5-4aab-92fb-1cfa24933bcd,model_1,model_3,v1,0,"{
+    ""intro"": {
+        ""title"": ""The Magical Quest"",
+        ""story"": ""In a land of wonder, a fairy named Lily was on a mission to find the magical Bloomflower, which only bloomed once a year. She needed help from a friend, and that friend is you!""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""The Fairy's Quest Begins"",
+            ""story"": ""In a land of sparkling flowers, a fairy named Lily set out to find the magical Bloomflower, but first, she needed help with a math problem to unlock the forest path. Can you help Lily by doing your math homework?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Crossing the Colorful River"",
+            ""story"": ""Lily reached a river that could only be crossed by creating a beautiful artwork, but her paintbrushes were dull. Can you draw an art project to inspire Lily and bring color back to her paintbrushes?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""The Mysterious Calendar"",
+            ""story"": ""A mysterious calendar appeared, requiring Lily to say the days of the week in order to reveal the next step. Can you help Lily by saying the days of the week?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""The Hidden Path"",
+            ""story"": ""The path was hidden under a pile of leaves and twigs, and only a tidy and organized space could reveal it. Can you clean your room to help Lily find the hidden path?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""The Cat's Secret"",
+            ""story"": ""A cat appeared, holding a crucial map, but it was hiding. Can you find where the cat is to help Lily get the map and continue her journey?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Nourishing the Soil"",
+            ""story"": ""The soil where the Bloomflower grew was dry and needed nourishment, and only a thriving plant could bring life back to it. Can you grow and take care of a plant to help Lily nourish the soil?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""The Magical Word"",
+            ""story"": ""A ancient stone had an inscription with a mysterious word that, when pronounced correctly, would make the Bloomflower bloom. Can you try saying the word 'hydrophilous' to help Lily unlock the stone's secret?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Bloomflower Blooms"",
+        ""story"": ""With your help, Lily found the Bloomflower, and it bloomed in all its glory. Thank you for being Lily's friend and helping her on her magical quest!""
+    }
+}",2.0590600967407227,True,True,True,True,True,True,True,5,8.0,4.0,5.0,5.0,"While the blockers are clearly defined, the calls to action are inconsistent, ranging from instantaneous speech to long-term tasks like growing a plant that disrupt the story's 7-day flow. The sudden introduction of the jargon word 'hydrophilous' on the final day violates the simple language rule for children's stories."
+7c06eee2-fa34-452c-aaba-dcd34620c73a,model_1,model_3,v1,1,"{
+    ""intro"": {
+        ""title"": ""The Magical Flower Quest"",
+        ""story"": ""In a land of sparkles and sunshine, a fairy named Lily was on a mission to find the rare Magical Flower, which only bloomed once a year. She needed help from a friend, and that friend was you! To start her journey, she had to get past the Math Meadow, where numbers and problems filled the air.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Math Meadow"",
+            ""story"": ""Lily tried to fly over the meadow, but the numbers were too confusing. She needed someone to do their math homework to unlock the secret path. Can you do your math homework to help Lily?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Artistic Bridge"",
+            ""story"": ""After crossing the meadow, Lily came across a rickety bridge that needed repair. She remembered that art could fix anything, so she needed someone to draw an art project to create a new, sturdy bridge. Can you draw an art project to help Lily cross the bridge?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Weekly Waterfall"",
+            ""story"": ""Lily reached a beautiful waterfall, but the flowing water was too strong. She needed someone to say the days of the week in order to calm the water and find a hidden passage behind the waterfall. Can you say the days of the week to help Lily?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Messy Cave"",
+            ""story"": ""As Lily entered a dark cave, she realized it was filled with clutter and mess. She needed someone to clean their room to inspire the cave creatures to tidy up and reveal a hidden door. Can you clean your room to help Lily?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Whisker Woods"",
+            ""story"": ""Lily ventured into Whisker Woods, where a stray cat was hiding. She needed someone to find where the cat is to get the cat's help in finding the next clue. Can you find where the cat is to help Lily?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Garden of Growth"",
+            ""story"": ""In the Garden of Growth, Lily found a withered plant that needed care. She needed someone to grow and take care of a plant to teach the garden creatures about nurturing and growth. Can you grow and take care of a plant to help Lily?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Mysterious Word"",
+            ""story"": ""Lily finally reached the Magical Flower, but it was locked behind a mysterious word. She needed someone to try saying the word 'petalific' to unlock the flower's magic. Can you try saying 'petalific' to help Lily?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Magical Flower Blooms"",
+        ""story"": ""Thanks to your help, Lily successfully found and unlocked the Magical Flower, and its bloom filled the land with sparkle and sunshine. You made a real difference in Lily's quest, and she's forever grateful for your support and friendship!""
+    }
+}",3.561971664428711,True,True,True,True,True,True,True,5,8.0,3.0,5.0,9.0,"The story consistently presents clear blockers, but the narrative logic fails when requiring the reader to complete long-term tasks like 'growing a plant' to solve immediate obstacles. While the calls to action are direct, they lack thematic variety and lean heavily on generic fantasy tropes."
+a925fdcb-57c4-4fe8-8eab-ea66daf2d3d3,model_1,model_3,v1,2,"{
+    ""intro"": {
+        ""title"": ""The Quest for the Golden Bloom"",
+        ""story"": ""In a land of sparkling flowers, a little fairy named Lily is on a quest to find the rare and magical Golden Bloom. She needs your help to overcome the challenges ahead and reach her goal.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""The Magical Journey Begins"",
+            ""story"": ""In a land of sparkling flowers, a little fairy named Lily set out to find the rare Golden Bloom. She needs to fly over the Math Mountains, but first, she must calculate the safest path. Can you help Lily by doing your math homework?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Crossing the Colorful River"",
+            ""story"": ""Lily reached the river that flows with colorful paints, but the bridge is made of blank canvases. To cross, she needs a beautiful art piece to bring the colors to life. Can you draw an art project to help Lily?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""The Whispering Woods"",
+            ""story"": ""Lily entered the Whispering Woods, where the trees whisper the days of the week. To find her way, she must listen carefully, but the trees are whispering too softly. Can you say the days of the week to help Lily hear?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""The Misty Meadow"",
+            ""story"": ""Lily arrived at the Misty Meadow, where the fog is hiding the path. To clear the mist, she needs to put away the toys and objects that are scattered everywhere. Can you clean your room to help Lily find her way?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""The Hidden Hollow"",
+            ""story"": ""Lily came to the Hidden Hollow, where her friend, a little cat, is hiding. The cat has a map that leads to the Golden Bloom, but Lily can't find her. Can you find where the cat is to help Lily?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""The Garden of Dreams"",
+            ""story"": ""Lily entered the Garden of Dreams, where the most beautiful flowers bloom. To grow the Golden Bloom, she needs to take care of a special plant that needs water, sunlight, and love. Can you grow and take care of a plant to help Lily?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""The Secret Word"",
+            ""story"": ""Lily finally reached the gate of the Golden Bloom's garden, but it's locked with a secret word. The word is a magic word that only the bravest adventurers can say. Can you try saying the word 'phoenix' to help Lily unlock the gate?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Golden Bloom"",
+        ""story"": ""Thanks to your help, Lily found the Golden Bloom, and its magic filled the land with sparkling flowers. You are a true hero, and Lily is forever grateful for your kindness and bravery!""
+    }
+}",2.3325324058532715,True,True,True,True,True,True,True,7,9.0,5.0,7.0,9.0,"The blockers are well-integrated with the setting, though Day 6's call to action (growing a plant) is logically impossible to complete in a single day. While the narrative follows a clear path, the 'Golden Bloom' theme is quite generic and lacks a unique creative twist."
+650c767a-9bcb-4ae0-a983-c9fee82fdaaf,model_1,model_3,v2,0,"{
+    ""intro"": {
+        ""title"": ""The Magical Flower"",
+        ""story"": ""In a land of enchantment, a fairy named Lily lived in a beautiful forest filled with wonders and magic. She had heard of a magical flower that bloomed only once a year, and its petals held the power to heal any wounded creature. The flower was hidden deep within the forest, and only those with the purest of hearts and the strongest of wills could find it. Are you ready to join Lily on her quest to find the magical flower?""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""The Journey Begins"",
+            ""story"": ""In a land of enchantment, a fairy named Lily set out on a quest to find the magical flower that bloomed only once a year. She had heard that the flower's petals held the power to heal any wounded creature. To begin her journey, Lily needed to prepare herself by doing her math homework, which would help her calculate the best route to the flower. Can you help Lily do her math homework to ensure she's on the right path?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Through the Forest"",
+            ""story"": ""As Lily flew through the forest, she encountered a babbling brook that flowed into a beautiful meadow. The meadow was filled with vibrant flowers, but none of them were the magical flower she sought. To cross the meadow, Lily needed to create a map, and for that, she required an art project that would help her identify the safest path. Can you draw a picture of the meadow with a safe path for Lily to follow?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""The Days of the Week"",
+            ""story"": ""Lily met a wise old owl who told her that the magical flower bloomed on a specific day of the week. The owl asked Lily to recite the days of the week in the correct order to prove her worth. If she succeeded, the owl would give her a crucial clue to find the flower. Can you help Lily by saying the days of the week in the correct order?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""A Cluttered Cave"",
+            ""story"": ""Lily entered a dark cave, but it was filled with clutter and obstacles that made it difficult for her to navigate. To find her way through the cave, Lily needed to clean and organize the space, which would help her discover a hidden passage. Can you help Lily clean her room, which would give her the inspiration to tidy up the cave?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""The Missing Cat"",
+            ""story"": ""As Lily exited the cave, she met a friendly cat who had lost its way. The cat asked Lily for help in finding its home, which was located on the other side of the forest. To assist the cat, Lily needed to find it, and for that, she required your help. Can you find where the cat is hiding?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""The Plant of Life"",
+            ""story"": ""Lily discovered a hidden garden filled with beautiful plants, but one of them was wilting and needed care. The plant was special, as it held the key to finding the magical flower. To revive the plant, Lily needed to learn how to grow and take care of it. Can you help Lily grow and take care of the plant by giving it the right amount of water and sunlight?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""The Final Word"",
+            ""story"": ""After many days of searching, Lily finally reached the location of the magical flower. However, to make it bloom, she needed to say a magical word that would unlock its power. The word was difficult to pronounce, but with your help, Lily could try saying it. Can you try saying the word 'florecer' with Lily to make the magical flower bloom?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Blooming Flower"",
+        ""story"": ""With your help, Lily was able to say the magical word 'florecer,' and the flower began to bloom. Its petals shimmered with a soft, golden light, and the air was filled with a sweet, enchanting fragrance. The wounded creatures of the forest were healed, and they all celebrated Lily's success. Thanks to your help, Lily achieved her goal, and the forest was once again filled with joy and wonder.""
+    }
+}",3.108405828475952,True,True,True,True,True,True,True,6,9.0,4.0,5.0,9.0,"The blockers frequently break immersion by linking mundane chores like math homework and room cleaning to magical progression without a strong narrative bridge. While the calls to action are clear and age-appropriate, the story lacks a sense of rising stakes as it moves toward the climax."
+f7b2d3d1-d3a4-40d6-b686-01f8e4641509,model_1,model_3,v2,1,"{
+    ""intro"": {
+        ""title"": ""The Quest for the Magical Flower"",
+        ""story"": ""In a land far, far away, a little fairy named Lily was on a quest to find a magical flower that would bring prosperity to her village. The flower was hidden deep within a mysterious forest, and Lily needed the help of a friend to find it. The journey would be long and challenging, but with your help, Lily was confident that she could succeed. Are you ready to join Lily on her quest and help her find the magical flower?""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""The Journey Begins"",
+            ""story"": ""In a land far, far away, a little fairy named Lily was on a quest to find a magical flower that would bring prosperity to her village. She had been searching for days, but to no avail. The fairy needed help from a friend, and that friend was you. Can you help Lily by doing your math homework so she can use the math skills to measure the distance to the flower?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Crossing the River"",
+            ""story"": ""Lily came across a wide river that she needed to cross, but the bridge was broken. She needed a creative solution to get to the other side. The fairy remembered that you were good at art, and she needed your help to draw an art project that would inspire her to find a way across. Can you draw a picture of a bridge that Lily can use to cross the river?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""The Mysterious Forest"",
+            ""story"": ""Lily entered a mysterious forest where the days of the week were mixed up, and she needed to put them in order to find her way. The fairy was confused and needed your help to say the days of the week in the correct order. You started with Sunday, then Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday. Can you help Lily by repeating the days of the week so she can find her way out of the forest?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""The Cluttered Cave"",
+            ""story"": ""Lily stumbled upon a cave that was filled with clutter and obstacles, and she needed to clean it up to find a hidden path. The fairy needed your help to clean your room, which would give her the energy to clean the cave. As you cleaned your room, Lily cleaned the cave, and soon they both found a clear path. Can you help Lily by keeping your room clean so she can keep the cave clean too?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""The Missing Cat"",
+            ""story"": ""Lily's cat, Whiskers, was missing, and she needed to find her to continue the journey. The fairy needed your help to find where the cat was hiding. You looked high and low, and soon you found Whiskers hiding behind a tree. Can you help Lily by finding where the cat is hiding so she can be reunited with her beloved pet?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""The Magical Garden"",
+            ""story"": ""Lily came across a magical garden that was filled with beautiful plants and flowers, but they needed care and attention to grow. The fairy needed your help to grow and take care of a plant, which would give her the knowledge to tend to the magical garden. As you watered and nourished your plant, Lily did the same to the garden, and soon it was flourishing. Can you help Lily by taking care of your plant so she can take care of the magical garden?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""The Final Challenge"",
+            ""story"": ""Lily finally reached the location of the magical flower, but it was guarded by a mysterious creature who spoke in riddles. The fairy needed your help to try saying the word 'philanthropy' to prove that you were a true friend and deserving of the flower's power. If you succeeded, the creature would give Lily the flower, and she would bring prosperity to her village. Can you help Lily by trying to say the word 'philanthropy'?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Magical Flower"",
+        ""story"": ""Lily finally obtained the magical flower, and as she held it in her hands, she felt its power and energy. The fairy was overjoyed and thanked you for your help and support throughout the journey. With the flower's power, Lily brought prosperity to her village, and the villagers were forever grateful. You had helped Lily achieve her goal, and you felt proud and happy knowing that you had made a difference in the fairy's life.""
+    }
+}",3.099677562713623,True,True,True,True,True,True,True,6,8.0,4.0,5.0,7.0,"The tasks (blockers) are loosely tied to the plot, but the sudden jump from naming days of the week to saying 'philanthropy' is jarring and breaks the story's age-appropriate progression. While the calls to action are clear, the narrative lacks escalating tension, making the final challenge feel disconnected from the previous days."
+3b5ce0fa-bfcf-480f-9056-175097d02e9e,model_1,model_3,v2,2,"{
+    ""intro"": {
+        ""title"": ""The Magical Flower"",
+        ""story"": ""In a land filled with sparkling flowers, a kind fairy named Lily set out on a journey to find the rare magical flower that only bloomed once a year. She had heard that this flower had the power to make any wish come true. Lily's wish was to make the world a happier place, but she needed help along the way. She was excited to start her journey and see what adventures awaited her.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""The Fairy's Quest Begins"",
+            ""story"": ""In a land filled with sparkling flowers, a kind fairy named Lily set out on a journey to find the rare magical flower that only bloomed once a year. She had heard that this flower had the power to make any wish come true. Lily's wish was to make the world a happier place, but she needed help along the way. Can you help Lily by doing your math homework tonight so she can get the map that will lead her to the flower?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""The Art of Navigation"",
+            ""story"": ""Lily found the map, but it was torn into pieces and she needed a special art piece to repair it. The fairy remembered that a group of artistic fairies lived in a nearby forest, and they could help her fix the map. To get their attention, Lily needed a beautiful drawing of the magical flower, and that's where you come in. Can you draw a picture of what you think the magical flower looks like, so Lily can show it to the artistic fairies?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""The Days of the Week"",
+            ""story"": ""The artistic fairies were impressed with your drawing and fixed the map, but now Lily had to figure out when the magical flower would bloom. The fairies told her that the flower bloomed on a specific day of the week, but they didn't know which one. Lily needed your help to remember the days of the week in the correct order. Can you say the days of the week with Lily, so she can figure out when the flower will bloom?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Cleaning Up the Path"",
+            ""story"": ""Lily discovered that the magical flower would bloom on Sunday, but the path to the flower was filled with trash and obstacles. The fairy couldn't clean the path by herself, and that's where you come in. You can help Lily by cleaning your room and showing her how to organize and throw away unnecessary things. Can you clean your room, so Lily can learn how to clean the path to the magical flower?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Finding a Helper"",
+            ""story"": ""The path was clean, but Lily realized that she needed a helper to find the exact location of the magical flower. She heard that a friendly cat named Whiskers knew the forest like the back of her paw, but Whiskers was nowhere to be found. Lily needed your help to find Whiskers, so they could work together to find the flower. Can you find where the cat is in your house or neighborhood, so Lily can get an idea of how to find Whiskers?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Growing a Special Plant"",
+            ""story"": ""Lily found Whiskers, and together they were getting close to the magical flower, but they needed a special plant to grow a bridge to reach it. The plant required special care and attention, and Lily needed your help to grow it. You can help Lily by growing and taking care of a plant, so she can learn how to nurture the special plant. Can you grow and take care of a plant, so Lily can learn how to grow the bridge to the magical flower?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""The Final Step"",
+            ""story"": ""The bridge was grown, and Lily was almost at the magical flower, but she needed to say a special word to make it bloom. The word was 'petalicious,' but it was a difficult word to pronounce. Lily needed your help to practice saying the word, so she could say it correctly when the time came. Can you try saying 'petalicious' with Lily, so she can finally make the magical flower bloom?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Wish Comes True"",
+        ""story"": ""Lily finally said the word 'petalicious' correctly, and the magical flower bloomed in all its beauty. The fairy's wish to make the world a happier place was granted, and happiness spread throughout the land. You helped Lily throughout her journey, and without your help, she wouldn't have been able to make her wish come true. Thank you for being a part of Lily's adventure, and remember that you have the power to make the world a happier place too.""
+    }
+}",3.5202207565307617,True,True,True,True,True,True,True,4,9.0,3.0,4.0,9.0,"The blockers are narratively weak, as real-world chores like math homework have no logical connection to Lily's ability to find a map in a fantasy world. Furthermore, the calls to action are poorly paced, asking the child to grow a physical plant—a multi-week task—as a requirement for a single day's story progression."
+3abd6985-fa61-4540-8dd2-f9aec1f27bd4,model_2,model_3,simple,0,"{
+    ""intro"": {
+        ""title"": ""Welcome to the Magical Flower Adventure"",
+        ""story"": ""In a world beyond our own, a fairy named Lily was on a quest to find the rare 'Rainbow Bloom' flower. She had heard it had the power to make magic come true.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Day 1: Math Homework"",
+            ""story"": ""Lily began her adventure by completing her math homework. She solved her math problems quickly and now she's ready for the next challenge.""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Day 2: Draw an Art Project"",
+            ""story"": ""On the second day, Lily drew a beautiful picture of the Rainbow Bloom. Her art skills were getting better with each drawing, but the Rainbow Bloom still seemed elusive.""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Day 3: Say the Days of the Week"",
+            ""story"": ""Lily practiced saying the days of the week with her fairy friends. They encouraged her to keep going, and soon she could say all seven days: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Day 4: Clean Your Room"",
+            ""story"": ""On the fourth day, Lily decided to clean her fairy room. She put away her art supplies, dusted her fairy wings, and made her bed. Now her room was spotless, but she still hadn't found the Rainbow Bloom.""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Day 5: Find Where the Cat is"",
+            ""story"": ""Lily went on a mission to find her friend's lost cat, Whiskers. She asked all the fairies and animals in the forest until she finally found Whiskers hiding behind a bush.""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Day 6: Grow and Take Care of a Plant"",
+            ""story"": ""On the sixth day, Lily planted a small seed and took care of it. She watered it, gave it sunlight, and talked to it every day. The seed grew into a small plant, and Lily was so proud of her green thumb.""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Day 7: Try Saying this Word"",
+            ""story"": ""On the final day, Lily's fairy teacher asked her to try saying the word 'rainbow'. Lily practiced and practiced until she finally said it correctly: 'RAI-nbow'. She felt happy and proud of herself for completing her seven-day challenge.""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Magical Flower"",
+        ""story"": ""And then, Lily found the Rainbow Bloom! She had been searching for it for seven days, solving problems and learning new skills along the way. She picked the flower and made her magic come true, and from that day on, she was known as the cleverest fairy in the forest.""
+    }
+}",1.2666058540344238,True,True,True,True,True,True,True,3,8.0,2.0,2.0,9.0,"The story lacks narrative blockers, as the daily chores like math and cleaning have no logical connection to finding a magical flower. There is no effective call to action or progression, as the quest is resolved arbitrarily rather than through the skills Lily practiced."
+7e5a502d-ac42-4d51-bae2-67ca4e227cfb,model_2,model_3,simple,1,"{
+    ""intro"": {
+        ""title"": ""The Magical Flower Adventure Begins"",
+        ""story"": ""Fairy Lily was on a quest to find the rare Magical Flower. Her friends had heard that it bloomed only in the most magical places.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Day 1: Doing My Math Homework"",
+            ""story"": ""Fairy Lily sat at her desk, trying to solve her math problems. She had to find the Magical Flower, but first, she needed to finish her homework.""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Day 2: Drawing My Art Project"",
+            ""story"": ""After finishing her homework, Fairy Lily grabbed her paintbrushes and started drawing a beautiful picture of the Magical Flower. She was so focused that she didn't even notice the time passing.""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Day 3: Learning My Days of the Week"",
+            ""story"": ""The next morning, Fairy Lily woke up and learned the days of the week with her fairy friends. They helped her practice saying 'Monday', 'Tuesday', and all the way to 'Sunday'.""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Day 4: Cleaning My Room"",
+            ""story"": ""After learning the days of the week, Fairy Lily cleaned her room to make it sparkle like the Magical Flower. She put her toys away and dusted her shelves, feeling proud of her hard work.""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Day 5: Finding Where the Cat is"",
+            ""story"": ""Fairy Lily's little fairy friend, Sparkles, was hiding in the garden with their mischievous cat. Fairy Lily had to use her problem-solving skills to find them both.""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Day 6: Taking Care of My Plant"",
+            ""story"": ""Today, Fairy Lily learned how to take care of a plant in the garden. She watered it, fed it, and gave it just the right amount of sunshine to make it grow strong.""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Day 7: Trying to Say a Difficult Word"",
+            ""story"": ""Fairy Lily and her friends had been searching for the Magical Flower for seven days now, and finally, they found it! However, Fairy Lily had to try saying a difficult word: 'photon'.""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""Fairy Lily Found the Magical Flower!"",
+        ""story"": ""Fairy Lily and her friends were overjoyed when they finally found the Magical Flower. She learned that with problem-solving skills and determination, anything is possible!""
+    }
+}",1.9413926601409912,True,True,True,True,True,True,True,3,8.0,2.0,2.0,9.0,"The story lacks a functional 'blocker' as the daily chores are unrelated to the quest rather than obstacles to be overcome. The 'call to action' to find the flower is neglected for six days of mundane tasks, resulting in a disconnected and unearned resolution."
+4e3f925d-f211-4068-b619-6e0080fb8b43,model_2,model_3,simple,2,"{
+    ""intro"": {
+        ""title"": ""A Fairy's Magical Adventure"",
+        ""story"": ""Once upon a time, in a faraway land, there lived a fairy named Lily. She heard about a magical flower that bloomed only once a year, and she wanted to see it for herself, but she had some tasks to do first!""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Day 1: Math Homework"",
+            ""story"": ""Lily sat at her desk and looked at her math problems. She worked hard and finished her homework before moving on to the next task.""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Day 2: Art Project"",
+            ""story"": ""Lily took out her paint and brushes and started creating a beautiful picture. She was so proud of her artwork and couldn't wait to show it to her fairy friends.""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Day 3: Learn Days of the Week"",
+            ""story"": ""Lily thought about the days of the week and recited them to herself: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday. She felt a sense of accomplishment and moved on to the next task.""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Day 4: Clean her Room"",
+            ""story"": ""Lily flew around her room, picking up toys and books, and putting them away in their proper places. Her room looked tidy and sparkling, just like a fairy's home should.""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Day 5: Find the Missing Cat"",
+            ""story"": ""Lily searched high and low for her mischievous cat, Whiskers. Finally, she found him hiding under the bed, and she gently picked him up and cuddled him.""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Day 6: Grow and Care for a Plant"",
+            ""story"": ""Lily planted a small seed in the soil and gave it plenty of love and water. To her delight, the seed grew into a beautiful flower, just like the magical one she was looking for!""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Day 7: Say a Special Word"",
+            ""story"": ""Lily thought about the special word she wanted to try saying: 'flamboyant.' She practiced and practiced until she got it just right.""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The End of Lily's Adventure"",
+        ""story"": ""And that's the end of Lily's magical adventure. She learned the importance of problem-solving and taking care of herself on her journey to find the magical flower.""
+    }
+}",1.0888655185699463,True,True,True,True,True,True,True,3,8.0,2.0,2.0,7.0,"The story lacks narrative blockers, as the daily tasks are mundane chores that resolve instantly without conflict or tension. There is no logical call to action or connection between the chores and the primary goal of finding the magical flower, resulting in a fragmented plot."
+5379eef8-a7fa-4c71-b16d-9f417939f02f,model_2,model_3,v1,0,"{
+    ""error"": ""Exceeded maximum retries (1) for output validation""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The input provided is a system error message rather than a narrative, which prevents any evaluation of the blocker or call to action. Please provide the actual seven-day story text to receive a proper assessment of the plot and character development."
+1efb1e5a-ffce-45b8-8fc9-92c121f60d48,model_2,model_3,v1,1,"{
+    ""intro"": {
+        ""title"": ""A Magical Adventure Begins!"",
+        ""story"": ""Once upon a time, in a land far, far away, there lived a kind and curious fairy named Lily. Lily's best friend, a magical flower named Bloom, was special because it helped make wishes come true. One day, Lily received a message that told her the magical energy of Bloom was weakening.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Day 1: Do Your Math Homework"",
+            ""story"": ""Lily thought to herself, 'I need to focus on my mission! First, I must finish my math homework so I can understand the numbers better.' She sat down and tried to do the problems, but as she was calculating, she realized she didn't know a crucial formula. Can you help Lily find the formula?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Day 2: Draw an Art Project"",
+            ""story"": ""After solving her math problem, Lily thought to herself, 'Now that I know my math, I need to create a map of the enchanted forest where Bloom grows.' She sat down to draw a picture, but as she started to draw, her pencils were all too broken to use. Can you help Lily find some new pencils?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Day 3: Say the Days of the Week"",
+            ""story"": ""Lily decided to practice her magical communication skills and needed to learn the days of the week. She started to recite them, but she got stuck on Friday. Can you help Lily remember the rest of the weekdays?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Day 4: Clean Your Room"",
+            ""story"": ""Before embarking on her quest, Lily's room was a mess, and she needed to clean it to gather her thoughts. She started to tidy up, but she struggled to put her belongings away. Can you help Lily find a better way to organize her room?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Day 5: Find Where the Cat Is"",
+            ""story"": ""Lily had lost track of her pet cat, Luna, who was an excellent guide. She looked around the garden and shouted for Luna, but there was no response. Can you help Lily call Luna back?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Day 6: Grow and Take Care of a Plant"",
+            ""story"": ""As Lily looked around the garden, she spotted a seedling with great potential. She decided to take care of the seedling to help it grow stronger for Bloom's sake. However, she didn't know how to water it without harming it. Can you help Lily learn which method to use?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Day 7: Try Saying This Word"",
+            ""story"": ""Lily finally found a clue that led her close to Bloom. However, she needed to say her own name correctly to unlock the last door. She stood in front of the door, took a deep breath, but couldn't find the right pronunciation. Can you help Lily say her name correctly?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""A Magical Wish Comes True!"",
+        ""story"": ""With your help, Lily was able to complete the tasks and finally found Bloom! Lily said thank you and with a happy heart, she picked a petal from Bloom. Her wish was finally granted, and the magical energy of Bloom was restored. Together, you and Lily made the impossible possible. You are a true friend in need!""
+    }
+}",3.653319597244263,True,True,True,True,True,True,False,4,8.0,3.0,3.0,9.0,"The story structure follows the 7-day rule, but the blockers are disconnected from the magical plot, making mundane chores feel jarring. The calls to action are clear, yet the climax—Lily being unable to pronounce her own name—undermines the logic of the narrative."
+bffb293a-9df0-4bdb-9de2-c5bcf2ab333a,model_2,model_3,v1,2,"{
+    ""intro"": {
+        ""title"": ""Let's Begin Our Magical Adventure"",
+        ""story"": ""In a beautiful kingdom far, far away, there lived a kind and gentle fairy named Lily. She had a special mission: to find the magical Moonflower, which bloomed only once a year under the light of the full moon. The magical Moonflower had the power to make all the flowers in the kingdom bloom again, and Lily wanted to make all the children in the kingdom happy. But Lily couldn't find the Moonflower, and that's where you come in \u2013 our little hero!""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Lily's First Obstacle: Finishing Math Homework"",
+            ""story"": ""Lily arrived at the forest, where the Moonflower was said to be hiding. But as she was about to begin her search, she realized she had forgotten to do her math homework. She needed to solve a few tricky equations to unlock the secrets of the forest. Can you help Lily finish her math homework so she can continue her quest?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Lily's Second Obstacle: A Creative Block"",
+            ""story"": ""Lily found a hidden cave, and inside, she drew a beautiful picture of the forest. But when she tried to draw a dragon to add to her picture, she got stuck. She couldn't think of what color the dragon should be. Can you help Lily come up with a color for her dragon so she can finish her art project?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Lily's Third Obstacle: Counting the Days"",
+            ""story"": ""Lily found a secret garden and wanted to plant a new flower. But when she tried to tell the gardener the day of the week, she got confused. Can you help Lily remember the days of the week so she can explain it to the gardener?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Lily's Fourth Obstacle: Tidying Up"",
+            ""story"": ""Lily came across a messy room and wanted to clean it up so she could find a hidden key. But when she tried to clean the room, she got overwhelmed by the mess. Can you help Lily clean her room so she can find the key and unlock a new path?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Lily's Fifth Obstacle: Finding the Mischievous Cat"",
+            ""story"": ""Lily was searching for a magical spring, but her cat, Whiskers, disappeared. She needs to find Whiskers so she can bring a fresh drink from the spring. Can you help Lily find Whiskers?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Lily's Sixth Obstacle: Planting a Seedling"",
+            ""story"": ""Lily decided to grow her own flower to make her path brighter. She planted a seedling, but it needs watering and sunshine to grow. Can you help Lily take care of her seedling so it can grow into a blooming flower?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Lily's Seventh Obstacle: Pronouncing a Magic Word"",
+            ""story"": ""Lily reached the heart of the forest and found a magical word written on a stone. She read the word out loud, but it came out funny. Can you help Lily say the word correctly so she can unlock the Moonflower's location?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Magical Moonflower Blooms!"",
+        ""story"": ""With your help, Lily finally found the magical Moonflower and made all the flowers in the kingdom bloom again. Thank you for helping our little fairy, Lily, complete her magical adventure! The kingdom is now filled with color and joy, all thanks to your creativity and problem-solving skills.""
+    }
+}",36.84019613265991,True,True,True,True,True,True,True,4,8.0,2.0,3.0,9.0,"The blockers are jarringly mundane, such as math homework and room cleaning, which break the immersion of a magical fairy quest. While the calls to action are clear, the narrative lacks logical flow or escalating tension to make the final discovery feel earned."
+c797edb0-c2bf-4663-8e78-d4dfcca336dd,model_2,model_3,v2,0,"{
+    ""error"": ""Exceeded maximum retries (1) for output validation""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The provided input is a system error message rather than a narrative, failing to establish any character blockers or a central quest. Consequently, it lacks the required 7-day structure and a meaningful call to action for a protagonist."
+e6f33fd4-d44c-43a2-b793-3985231f1e2b,model_2,model_3,v2,1,"{
+    ""error"": ""Exceeded maximum retries (1) for output validation""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The input provided is a system error message that fails to establish a narrative blocker or any character motivation. Without a story, there is no call to action or progression toward a goal, making it impossible to evaluate against the required structure."
+46518a70-f740-4466-b541-0303adf82e9e,model_2,model_3,v2,2,"{
+    ""intro"": {
+        ""title"": ""A Fairy's Magical Flower"",
+        ""story"": ""In a far-off land, a fairy named Lily was on a quest to find a magical flower. The flower had the power to heal any wound, and Lily's friend, a bird, was hurt. Lily decided to embark on a journey to find the magical flower. She packed her bag and said goodbye to her fairy friends.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Day 1: Lily's First Challenge"",
+            ""story"": ""Lily started her journey, but first, she needed to finish her math homework. She sat down under a tree and looked at her book. She had five baskets of apples, and each basket had a different number of apples. Can you help Lily count how many apples she has in total?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Day 2: Lily's Art Project"",
+            ""story"": ""Lily finished her math homework and continued on her journey. As she walked, she saw a beautiful meadow and decided to draw a picture of it. Can you help Lily draw a meadow with a big blue sky, fluffy white clouds, and a few tall trees?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Day 3: Lily's Memory Challenge"",
+            ""story"": ""While Lilu drew her picture, she thought about the days of the week. Can you help Lily list the days of the week in order, from Monday to Sunday?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Day 4: Lily's Cleaning Challenge"",
+            ""story"": ""After drawing her picture, Lily's room started to look messy. She decided to clean her room and throw away all the toys she didn't need anymore. Can you help Lily make a list of the things she needs to clean and put away?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Day 5: Lily's Lost Cat"",
+            ""story"": ""Lily cleaned her room and continued on her journey, but soon she realized she lost her cat, Whiskers. Can you help Lily think of all the places she could look for Whiskers?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""A Happy Ending"",
+        ""story"": ""Lily finally found the magical flower and brought it back to her friend, the bird. With the flower's healing power, the bird was healed, and all the fairy friends were happy. Lily learned that she couldn't have done it without your help, and she's grateful for your friendship. You helped a fairy find a magical flower and heal her friend!""
+    }
+}",6.301518678665161,True,True,False,True,True,True,True,2,3.0,3.0,1.0,8.0,"The story fails to create a logical progression, as the 'blockers' are mundane domestic chores entirely unrelated to the urgent quest to heal the bird. Additionally, it lacks the standard 7-day structure and uses calls to action that feel like school worksheets rather than integrated plot elements."
+419701f3-8d8f-4cfa-89b3-d760c7178eb9,model_3,model_1,simple,0,"{
+    ""intro"": {
+        ""title"": ""Flora's Big Quest"",
+        ""story"": ""Flora the fairy is looking for the Glowing Starflower that blooms once every hundred years. She needs your help to solve puzzles and find her way through the deep woods.""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""The Number Gate"",
+            ""story"": ""Flora needs to count the magical stones to open the first forest gate. Do your math homework today to help her learn the power of numbers.""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Mapping the Way"",
+            ""story"": ""The fairy needs a map to find the hidden path behind the waterfall. Help her by drawing a beautiful art project of the magical forest.""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""The Talking Tree"",
+            ""story"": ""A giant tree blocks the road and will only move if you say the secret code. Say the days of the week out loud to help Flora pass.""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Clearing the Path"",
+            ""story"": ""The forest trail is very messy and Flora cannot see where she is going. Help her clear the path by cleaning your room today.""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""The Hidden Friend"",
+            ""story"": ""A magical kitten is hiding nearby and holds the key to the flower garden. Look around your house and find where the cat is to help Flora.""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Garden Magic"",
+            ""story"": ""Flora finds a tiny seed that needs extra love to grow into the magical flower. Help it bloom by learning how to grow and take care of a plant.""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""The Magic Word"",
+            ""story"": ""The flower is ready to open, but it needs you to say the magic word 'Splendiferous.' Try saying this word to help the petals finally glow.""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""A Bright Success"",
+        ""story"": ""The Glowing Starflower finally blooms and fills the forest with beautiful light. Flora is so happy and thanks you for being such a wonderful helper!""
+    }
+}",10.50388789176941,True,True,True,True,True,True,True,8,9.0,7.0,8.0,9.0,"The story follows a clear structure, but the blockers and call to action could be more seamlessly integrated into the narrative, consider revising the story to make the connection between the child's tasks and Flora's progress more intuitive and engaging."
+d8e27cd7-14e1-4ec0-9a4b-c2e41e635d9b,model_3,model_1,simple,1,"{
+    ""error"": ""status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 29.182677866s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The story does not follow a 7-day structure and lacks a clear plot, and a call to action is needed to encourage the reader to continue reading."
+87d3f72f-a4b5-423a-a1d5-0ba2a33c1edf,model_3,model_1,simple,2,"{
+    ""error"": ""status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 24.800987276s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '24s'}]}}""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The story does not follow the required structure and is instead an error message, blocking progression with a lack of narrative and call to action, the author should focus on creating a compelling storyline."
+f33de6ce-39c1-49a1-b9b0-c3806cdf5ea6,model_3,model_1,v1,0,"{
+    ""error"": ""status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 18.960744334s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The story lacks a coherent plot and does not follow the 7-day structure, it is also not unique or creative and the language used is complex and not suitable for children. To improve, focus on developing a clear and concise narrative that builds tension toward a goal, while using simple language and adhering to the given structure and character rules."
+8d54de52-4254-49b2-94da-d6936ba04461,model_3,model_1,v1,1,"{
+    ""error"": ""status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 14.185827235s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '14s'}]}}""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The story does not follow the 7-day structure and character rules, and the plot lacks logical sense. To improve, focus on developing a unique theme and building tension toward a clear goal, while using simple language suitable for children."
+38e6a0fb-09d9-40e0-899c-6ef3e1106ad5,model_3,model_1,v1,2,"{
+    ""error"": ""status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 10.084548404s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The story lacks coherence and consistency, and the language is not simple or suitable for a child, as it appears to be an error message. To improve, focus on creating a narrative with a clear structure and characters, and use language that is easy for children to understand."
+603bfa70-d681-40b2-b17e-461656c1f902,model_3,model_1,v2,0,"{
+    ""error"": ""status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 5.611250082s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"This story does not provide a narrative, instead, it displays an API error message, thus failing to meet the basic requirements of a children's story. To create an engaging story, consider developing a plot with relatable characters and a clear structure."
+4d4e881d-ba0c-4976-ad9d-db365b57b9d9,model_3,model_1,v2,1,"{
+    ""error"": ""status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 989.954354ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The story lacks a coherent plot and does not follow the 7-day structure and character rules, it also doesn't build any tension toward a goal and the language used is not suitable for a child, it appears to be an error message instead of a story."
+d6604689-2f04-4b79-a4e5-e3e7a3e0de79,model_3,model_1,v2,2,"{
+    ""error"": ""status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\\nPlease retry in 54.40400988s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '54s'}]}}""
+}",,False,True,False,False,False,False,False,1,1.0,1.0,1.0,1.0,"The story does not follow a coherent plot structure, and it lacks consistency in terms of character development and 7-day structure. To improve, focus on creating a clear narrative arc and establishing well-defined characters that follow a logical progression."
+0c53c839-f1df-4560-aa17-6390434aa58f,model_2,model_3,v2,0,"{
+    ""intro"": {
+        ""title"": ""The Magical Flower"",
+        ""story"": ""In a faraway forest, there lived a kind and gentle fairy named Lily. She loved to explore and learn new things, but her favorite thing was finding magical flowers. She had heard about a rare and exquisite flower hidden deep in the forest and was determined to find it. Can you help me find the flower?""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Day 1:"",
+            ""story"": ""Today, Lily decided to do her math homework before starting her search. She sat under a shady tree and pulled out her worksheets, but she got stuck on a tricky problem. Can you solve the math problem for me?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Day 2:"",
+            ""story"": ""Lily loved art and decided to draw a beautiful picture of the magical flower. She got creative with her colors and added sparkles, but she needed help deciding on the perfect name for her masterpiece. Can you think of a beautiful name for my painting?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Day 3:"",
+            ""story"": ""Lily wanted to know the names of the days of the week so she could plan her search properly. She remembered Monday and Sunday, but got stuck on the middle of the week. Can you complete the list of the days of the week for me?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Day 4:"",
+            ""story"": ""As Lily's room was getting messy, she decided to clean it up. She put away her toys and books, but her closet was still a mess. Can you help me organize my closet?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Day 5:"",
+            ""story"": ""While Lily was searching for clues, her mischievous cat, Whiskers, escaped and hid in a hidden compartment. Can you help me find Whiskers?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Day 6:"",
+            ""story"": ""Lily realized that she needed to plant a seed to grow the magical flower. She chose a beautiful seed and gave it plenty of water and sunlight. Can you help me water this plant every day?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Day 7:"",
+            ""story"": ""Lily had been practicing saying words that started with the letter 's' for weeks. She tried to say the word 'supercalifragilisticexpialidocious', but got tongue-tied. Can you help me say this big word out loud?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Magical Flower"",
+        ""story"": ""With your help, Lily was able to solve all the problems, find Whiskers, grow the magical flower, and even say the big word! She picked the flower, and all the fairies in the forest celebrated the discovery. Lily's friends thanked her for her help and praised her for her kindness. She knew that she couldn't have done it without you. What a magical adventure!""
+    }
+}",8.090351104736328,True,False,True,True,True,True,False,"status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\nPlease retry in 33.989987947s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}"
+0c53c839-f1df-4560-aa17-6390434aa58f,model_2,model_3,v2,0,"{
+    ""intro"": {
+        ""title"": ""The Magical Flower"",
+        ""story"": ""In a faraway forest, there lived a kind and gentle fairy named Lily. She loved to explore and learn new things, but her favorite thing was finding magical flowers. She had heard about a rare and exquisite flower hidden deep in the forest and was determined to find it. Can you help me find the flower?""
+    },
+    ""days"": [
+        {
+            ""day"": 1,
+            ""title"": ""Day 1:"",
+            ""story"": ""Today, Lily decided to do her math homework before starting her search. She sat under a shady tree and pulled out her worksheets, but she got stuck on a tricky problem. Can you solve the math problem for me?""
+        },
+        {
+            ""day"": 2,
+            ""title"": ""Day 2:"",
+            ""story"": ""Lily loved art and decided to draw a beautiful picture of the magical flower. She got creative with her colors and added sparkles, but she needed help deciding on the perfect name for her masterpiece. Can you think of a beautiful name for my painting?""
+        },
+        {
+            ""day"": 3,
+            ""title"": ""Day 3:"",
+            ""story"": ""Lily wanted to know the names of the days of the week so she could plan her search properly. She remembered Monday and Sunday, but got stuck on the middle of the week. Can you complete the list of the days of the week for me?""
+        },
+        {
+            ""day"": 4,
+            ""title"": ""Day 4:"",
+            ""story"": ""As Lily's room was getting messy, she decided to clean it up. She put away her toys and books, but her closet was still a mess. Can you help me organize my closet?""
+        },
+        {
+            ""day"": 5,
+            ""title"": ""Day 5:"",
+            ""story"": ""While Lily was searching for clues, her mischievous cat, Whiskers, escaped and hid in a hidden compartment. Can you help me find Whiskers?""
+        },
+        {
+            ""day"": 6,
+            ""title"": ""Day 6:"",
+            ""story"": ""Lily realized that she needed to plant a seed to grow the magical flower. She chose a beautiful seed and gave it plenty of water and sunlight. Can you help me water this plant every day?""
+        },
+        {
+            ""day"": 7,
+            ""title"": ""Day 7:"",
+            ""story"": ""Lily had been practicing saying words that started with the letter 's' for weeks. She tried to say the word 'supercalifragilisticexpialidocious', but got tongue-tied. Can you help me say this big word out loud?""
+        }
+    ],
+    ""outro"": {
+        ""title"": ""The Magical Flower"",
+        ""story"": ""With your help, Lily was able to solve all the problems, find Whiskers, grow the magical flower, and even say the big word! She picked the flower, and all the fairies in the forest celebrated the discovery. Lily's friends thanked her for her help and praised her for her kindness. She knew that she couldn't have done it without you. What a magical adventure!""
+    }
+}",8.090351104736328,True,False,True,True,True,True,False,"status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\nPlease retry in 33.989987947s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}"
+4f6f065e-c7d0-4355-b5cb-a4e69035dd9c,model_2,model_3,v2,1,"{
+    ""error"": ""Exceeded maximum retries (1) for output validation""
+}",,False,False,False,False,False,False,False,"status_code: 429, model_name: gemini-3-flash-preview, body: {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3-flash\nPlease retry in 27.969390902s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}"
