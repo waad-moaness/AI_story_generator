@@ -17,4 +17,5 @@ dependencies = [
 dev = [
     "git-filter-repo>=2.47.0",
     "jupyter>=1.1.1",
+    "pandas>=3.0.2",
 ]
