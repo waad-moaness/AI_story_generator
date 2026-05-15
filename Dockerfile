@@ -10,7 +10,7 @@ ENV HOME=/home/user \
 
 WORKDIR $HOME/app
 
-# 3. Copy lockfiles and install dependencies system-wide (Safe because we are root here)
+# 3. Copy lockfiles and install dependencies system-wide
 COPY pyproject.toml uv.lock ./
 RUN uv pip install --system --no-cache -r pyproject.toml
 
@@ -20,6 +20,10 @@ USER user
 # 5. Copy your application source code and grant ownership to the user
 COPY --chown=user:user . .
 
+# FORCE Python to look inside the current app directory for modules like main, routes, etc.
+ENV PYTHONPATH=$HOME/app
+
 EXPOSE 7860
 
+# Running Uvicorn directly by pointing explicitly to the file path
 CMD ["uvicorn", "main:api", "--host", "0.0.0.0", "--port", "7860", "--workers", "1"]
