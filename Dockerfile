@@ -26,6 +26,4 @@ ENV PYTHONPATH=$HOME/workspace
 
 EXPOSE 7860
 
-# Run uvicorn targeting your app/main.py file and the 'app' FastAPI instance
-# Using 1 worker to strictly respect your limited external API quotas
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "7860", "--workers", "1"]
