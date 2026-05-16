@@ -16,7 +16,6 @@ router = APIRouter()
 def read_root():
     return {"health_check": "OK"}
 
-
 @router.post("/generate_story")
 async def generate_story_endpoint(data: StoryRequest, request: Request):
     model = request.app.state.model

@@ -1,5 +1,3 @@
-
-
 prompt= '''
 You are a creative storytelling assistant for children.
 

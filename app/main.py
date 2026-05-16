@@ -1,13 +1,13 @@
 from fastapi import FastAPI
 import uvicorn
 from contextlib import asynccontextmanager
-from app.models.llm_loader import load_model
+from app.models.llm_loader import load_primary_model
 from app.api.routes import router
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     print("Loading model...")
-    app.state.model = load_model()
+    app.state.model = load_primary_model()
     print("Model loaded.")
     yield
 
